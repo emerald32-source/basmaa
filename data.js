@@ -1,49 +1,48 @@
-const clientCustomName = "بسمى";
+const clientCustomName = "بسمة";
 const clientGender = "f";
 const clientEidiyaCode = "EID-500-VIP";
-const clientEnvelopeText = `كل عام وانت بكل الخير قلب خالتو
-ربي يوفقك  ويسعدك ويحفظك 🌹
-وكل عيد وانت محققة كل اللي تتمنيه  وتحلمي بيه 
+const clientEnvelopeText = `كل عام وانتي طيبه وبخير يا قلب خالتو
+كل غيد وانتي فرحانه ومبسوطه ومحققه كل اللي تتمنيه
 عيدك مبارك 🌹`;
 const clientMemories = [
     {
         "photo": "photo1.jpg",
-        "caption": "عيدكم مبارك"
+        "caption": "ربي يحفظكم"
     },
     {
         "photo": "photo2.jpg",
-        "caption": "يحفظكم ربي"
+        "caption": "اطيب قلب"
     },
     {
         "photo": "photo3.jpg",
-        "caption": "قلب خالتو"
+        "caption": "احلى ضحكه"
     },
     {
         "photo": "photo4.jpg",
-        "caption": "احلي ضحكه"
+        "caption": "احلى بسمه"
     },
     {
         "photo": "photo5.jpg",
-        "caption": "احلا عيون"
+        "caption": "جميله جميله"
     },
     {
         "photo": "photo6.jpg",
-        "caption": "ربي يحفظك"
+        "caption": "اجمل عيون"
     },
     {
         "photo": "photo7.jpg",
-        "caption": "عيد سعيد"
+        "caption": "احلى ضحكه"
     },
     {
         "photo": "photo8.jpg",
-        "caption": "َ"
+        "caption": "عيدك مبارك"
     },
     {
         "photo": "photo9.jpg",
-        "caption": "َ"
+        "caption": "ربي يسعدك"
     },
     {
         "photo": "photo10.jpg",
-        "caption": "َ"
+        "caption": "ربي يحميكي"
     }
 ];
